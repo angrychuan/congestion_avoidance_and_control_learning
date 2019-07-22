@@ -1,0 +1,2 @@
+# congestion_avoidance_and_control_learning
+研究学习TCP 拥塞避免和控制，特别是TCP BBR拥塞控制算法，进而引申讨论研究音视频实时传输中的拥塞控制和码率估计
